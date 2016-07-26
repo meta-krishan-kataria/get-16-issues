@@ -41,3 +41,15 @@ This web application will be used for issue tracking within an organization. It 
 2. Comment can be removed by comment owner and issue owne
 
 
+#### Images
+
+![Create Issue]
+(https://github.com/gbohra/get-16-issues/blob/master/imageedit_5_8318581614.png)
+
+![Issues Listing]
+(https://github.com/gbohra/get-16-issues/blob/master/imageedit_11_3957937460.png)
+
+#### Good to have features
+
+1. Issues can be estimated in hours and the issue resolver can update the actual time (in hours) taken to resolve the issue
+2. Email can be sent to the all the users assigned to an issue at the time of issue creation/updation
