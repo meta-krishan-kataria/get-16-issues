@@ -1,4 +1,5 @@
 # Abstract
+Issue ticketing system is an app designed to help company's support ticket service by providing staff with a customer support platform they need to deliver fast, effective and measurable support.
 
 # Documents
 
