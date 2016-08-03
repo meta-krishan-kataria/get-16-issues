@@ -3,7 +3,7 @@ Issue ticketing system is an app designed to help company's support ticket servi
 
 # Documents
 
-- Check [**functional specification**](https://github.com/gbohra/get-16-issues/wiki/Requirments-Specifications) document of project.
+- Check [**functional specification**](https://github.com/gbohra/get-16-issues/wiki/Functional-Specifications) document of project.
 - Check [**technical guideline**](https://github.com/gbohra/get-technology) document.
 
 Feel free to give your suggestions [**here**](https://github.com/gbohra/get-16-issues/issues)
